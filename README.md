@@ -11,7 +11,7 @@
 
   <h3>🚀 Tech Stack & Tools</h3>
   
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,supabase,firebase,figma,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,vite,nextjs,npm,nodejs,bun,express,supabase,firebase,figma,git,github,docker,postman,py&theme=dark" />
 
   <br />
   <br />
